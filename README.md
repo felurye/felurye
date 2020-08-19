@@ -1,4 +1,4 @@
-![](https://github.com/felurye/felurye/blob/master/Image/Capa-1.png)
+![](https://github.com/felurye/felurye/blob/master/Image/Capa.png)
 
 ## Hi there!! ✌
 Programadora Web, automatizadora, analista... bem, não sei bem o que me define, talvez um pouco de tudo. Sou encantada com a tecnologia, isso resume melhor.
