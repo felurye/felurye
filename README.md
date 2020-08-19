@@ -1,8 +1,8 @@
 ![](https://github.com/felurye/felurye/blob/master/Image/Capa.png)
 
 ## Hi there!! ✌
-Programadora Web, automatizadora, analista... bem, não sei bem o que me define, talvez um pouco de tudo. Sou encantada com a tecnologia, isso resume melhor.
-Gosto de desenvolver sistemas, vez ou outra construir protótipos com arduíno, entre outras coisas. Enfim, um pouco sobre mim:
+Programadora Web, automatizadora, analista... sou encantada com a tecnologia, isso resume melhor.
+Gosto de desenvolver sistemas, vez ou outra construir protótipos com arduíno, entre outras coisas. Um pouco sobre mim:
 
 * 📖 Estudante de Análise e Desenvolvimento de Sistemas em [Instituto Federal de Goiás](https://www.ifg.edu.br/).
 * 💼 Automatizadora de Teste em [Abrantes Soluções](http://abrantess.com.br/abrantessolucoes/).
