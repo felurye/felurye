@@ -1,5 +1,7 @@
 ## Hi there!! ✌
-<img align='right' src="https://github.com/felurye/felurye/blob/master/Image/Capa-character-2.png" width="300">
+<p align="center">
+    <img align='center' src="https://github.com/felurye/felurye/blob/master/Image/Capa-character-2.png" width="200">
+</p>
 Programadora Web, automatizadora de testes e analista de QA em evolução... sou encantada com a tecnologia, isso resume melhor.
 Gosto de desenvolver sistemas, vez ou outra construir protótipos com arduíno, entre outras coisas. Um pouco sobre mim:
 
@@ -12,8 +14,8 @@ Gosto de desenvolver sistemas, vez ou outra construir protótipos com arduíno, 
  <table>
   <tr>
     <td>
-     <img width="357px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felurye&count_private=true&theme=tokyonight&layout=compact" />
-     <img width="430px" src="https://github-readme-stats.vercel.app/api/?username=felurye&theme=tokyonight&count_private=true&show_icons=true" />
+     <img width="357px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felurye&count_private=true&layout=compact&bg_color=DEG,E5F0FA,C7DCF1&title_color=0366DE&icon_color=90B9E3"/>
+     <img width="430px" src="https://github-readme-stats.vercel.app/api/?username=felurye&count_private=true&show_icons=true&bg_color=DEG,E5F0FA,C7DCF1&title_color=0366DE&icon_color=90B9E3"/>
     </td>
   </tr>
  </table>
