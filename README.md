@@ -9,7 +9,7 @@ Gosto de compartilhar meu conhecimento e você pode acompanhar por aqui, onde co
 
 * 📖 Estudante de Análise e Desenvolvimento de Sistemas em [Instituto Federal de Goiás](https://www.ifg.edu.br/).
 * 💼 Analista de QA em [Deltapoint](https://deltapoint.com.br/).
-* 👩🏻‍💼 Fundadora dos [Robotizados](https://www.instagram.com/robotizados/).
+* 👩🏻‍💼 Idealizadora dos [Robotizados](https://www.instagram.com/robotizados/).
 * 👩🏻‍💻 Escrevo conteúdos para: [Caliandras Digitais](https://www.instagram.com/caliandrasdigitais/) & [Mundo QA](https://www.instagram.com/mundoqa/).
 
 #### Tech e Skills 🚀
