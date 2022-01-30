@@ -7,7 +7,7 @@ Sou QA apaixonada por programação e adoro compartilhar conhecimento para contr
 
 <h3>Sobre mim</h3>
 
-<img align='left' style='padding-right: 30px;' src="https://github.com/felurye/felurye/blob/master/.github/capa-character-1.png" width="180">
+<img align='left' style='padding-right: 30px;' src=".github/capa-character-1.png" width="180">
 
 * 📖 Estudante de Análise e Desenvolvimento de Sistemas no [Instituto Federal de Goiás](https://www.ifg.edu.br/)
 * 💼 QA Testing Engineer na [Neon Pagamentos](https://neon.com.br/)
