@@ -1,4 +1,4 @@
-<h1 align='center'>Hi, guys! I'm Dani 🖖</h1>
+<h1 align='center'>print("Hello World! 🖖")</h1>
 
 <p align='center'><a href="https://www.instagram.com/felurye/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a> <a href="https://www.linkedin.com/in/felurye/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="https://medium.com/@felurye"><img src="https://img.shields.io/badge/Medium-0A0A0A?style=for-the-badge&logo=Medium&logoColor=white"/></a> <a href="https://dev.to/felurye"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"/></a> <a href="https://steamcommunity.com/id/Felurye/"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"/></a> <a href="https://telegram.me/felurye"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a></p>
 
@@ -7,7 +7,7 @@ Sou QA apaixonada por programação e adoro compartilhar conhecimento para contr
 
 <h3>Sobre mim</h3>
 
-<img align='left' style='padding-right: 30px;' src=".github/capa-character-2.png" width="180">
+<img align='right' style='padding-right: 30px;' src=".github/capa-character-2.png" width="350">
 
 * 📖 Estudante de Análise e Desenvolvimento de Sistemas no [Instituto Federal de Goiás](https://www.ifg.edu.br/)
 * 💼 QA Testing Engineer na [Neon Pagamentos](https://neon.com.br/)
