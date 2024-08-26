@@ -1,8 +1,13 @@
 <h1 align='center'>print("Hello World! 🖖")</h1>
 
-<p align='center'><a href="https://www.instagram.com/felurye/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a> <a href="https://www.linkedin.com/in/felurye/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="https://medium.com/@felurye"><img src="https://img.shields.io/badge/Medium-0A0A0A?style=for-the-badge&logo=Medium&logoColor=white"/></a> <a href="https://dev.to/felurye"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"/></a> <a href="https://steamcommunity.com/id/Felurye/"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"/></a> <a href="https://telegram.me/felurye"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a></p>
-
-Software Engineer que adora compartilhar conhecimento para contribuir com o crescimento das pessoas. Com 3 anos de experiência em _Qualidade de Software_ e intusiasta em _Internet das Coisas_. Meus conhecimentos mais sólidos estão em automação de testes com _Java_ e _Selenium_, mas não me prendo a linguagens ou frameworks e estou sempre aprendendo algo novo, pois a tecnologia me encanta. ✨
+<p align='center'>
+<a href="https://www.linkedin.com/in/felurye/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://medium.com/@felurye"><img src="https://img.shields.io/badge/Medium-0A0A0A?style=for-the-badge&logo=Medium&logoColor=white"/></a>
+<a href="https://dev.to/felurye"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"/></a>
+<a href="https://www.instagram.com/felurye/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+</p>
+  
+Software Engineer que adora compartilhar conhecimento. Com 3 anos de experiência em _Qualidade de Software_ e intusiasta em _Internet das Coisas_. Meus conhecimentos mais sólidos estão em automação de testes com _Java_ e _Selenium_, mas não me prendo a linguagens ou frameworks e estou sempre aprendendo algo novo, pois a tecnologia me encanta. ✨
 
 
 <h3>Sobre mim</h3>
