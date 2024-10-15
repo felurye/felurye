@@ -15,7 +15,7 @@ Software Engineer que adora compartilhar conhecimento. Com 3 anos de experiênci
 <img align='right' style='padding-right: 30px;' src=".github/capa-character-2.png" width="350">
 
 * 📖 Graduada em Análise e Desenvolvimento de Sistemas pelo [Instituto Federal de Goiás](https://www.ifg.edu.br/)
-* 💼 Software Engineer em [Cartão Elo](https://www.elo.com.br/)
+* 💼 Software Engineer em [Nubank](https://nubank.com.br/)
 * 👩🏻‍💻 Mebro em [PyLadies Fortaleza](https://www.instagram.com/pyladiesfortaleza/), onde busco incentivar meninas na permanência na TI
 * 💻 Buscando aprofundar meus conhecimentos para participar mais ativamente em projetos Open Source
 * 💬 Fique à vontade para me procurar se de alguma maneira eu consiga ajudar <br><br>
