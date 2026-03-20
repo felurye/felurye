@@ -5,7 +5,7 @@ Software Engineer passionate about sharing knowledge. With 7+ years of experienc
 I have a strong foundation in test automation and Java, and I value writing maintainable, high-quality software. I’m technology-agnostic and continuously learning, driven by curiosity and a desire to improve. ✨
 </p>
 
-<img align="right" width="250" src=".github/capa-character-3.gif" alt="Pixel art drawing of Daniele Araújo typing on a keyboard."/>
+<img align="right" width="230" src=".github/capa-character-3.gif" alt="Pixel art drawing of Daniele Araújo typing on a keyboard."/>
 
 <h3 align="left">About me</h3>
 
@@ -17,13 +17,13 @@ I have a strong foundation in test automation and Java, and I value writing main
 </p>
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/felurye/" target="_blank" style="color: inherit; text-decoration: none;">
+  <a href="https://www.linkedin.com/in/felurye/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="42" height="30" alt="linkedin logo"  />
   </a>
-  <a href="https://medium.com/@felurye" target="_blank" style="color: inherit; text-decoration: none;">
+  <a href="https://medium.com/@felurye" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="42" height="30" alt="medium logo"  />
   </a>
-  <a href="https://ko-fi.com/felurye" target="_blank" style="color: inherit; text-decoration: none;">
+  <a href="https://ko-fi.com/felurye" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/ko-fi/default.svg" width="42" height="30" alt="ko-fi logo"  />
   </a>
 </div>
