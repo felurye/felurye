@@ -1,26 +1,54 @@
-<h1 align='center'>print("Hello World! 🖖")</h1>
+<h2 align="left">Would you like to come in and have a cup of coffee? ☕</h2>
 
-<p align='center'>
-<a href="https://www.linkedin.com/in/felurye/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://medium.com/@felurye"><img src="https://img.shields.io/badge/Medium-0A0A0A?style=for-the-badge&logo=Medium&logoColor=white"/></a>
-<a href="https://dev.to/felurye"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"/></a>
-<a href="https://www.instagram.com/felurye/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<p align="left">
+Software Engineer passionate about sharing knowledge. With 7+ years of experience spanning software quality and web development, with a strong focus on microservices. I’m also an enthusiast of the Internet of Things (IoT).<br>
+I have a strong foundation in test automation and Java, and I value writing maintainable, high-quality software. I’m technology-agnostic and continuously learning, driven by curiosity and a desire to improve. ✨
 </p>
-  
-Software Engineer que adora compartilhar conhecimento. Com 3 anos de experiência em _Qualidade de Software_ e intusiasta em _Internet das Coisas_. Meus conhecimentos mais sólidos estão em automação de testes com _Java_ e _Selenium_, mas não me prendo a linguagens ou frameworks e estou sempre aprendendo algo novo, pois a tecnologia me encanta. ✨
 
+<img align="right" height="200" src=".github/capa-character-3.gif" alt="Pixel art drawing of Daniele Araújo typing on a keyboard."/>
 
-<h3>Sobre mim</h3>
+<h3 align="left">About me</h3>
 
-<img align='right' style='padding-right: 30px;' src=".github/capa-character-2.png" width="350">
+<p align="left">
+💼 Software Engineer at Nubank <br>
+📖 Graduated in Systems Analysis and Development - Federal Institute of Goiás <br>
+💻 Passionate about open source and supporting underrepresented communities in tech <br>
+💬 Always open to connect - feel free to reach out if I can help in any way
+</p>
 
-* 📖 Graduada em Análise e Desenvolvimento de Sistemas pelo [Instituto Federal de Goiás](https://www.ifg.edu.br/)
-* 💼 Software Engineer em [Nubank](https://nubank.com.br/)
-* 👩🏻‍💻 Mebro em [PyLadies Fortaleza](https://www.instagram.com/pyladiesfortaleza/), onde busco incentivar meninas na permanência na TI
-* 💻 Buscando aprofundar meus conhecimentos para participar mais ativamente em projetos Open Source
-* 💬 Fique à vontade para me procurar se de alguma maneira eu consiga ajudar <br><br>
+<div align="left">
+  <a href="https://www.linkedin.com/in/felurye/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="42" height="30" alt="linkedin logo"  />
+  </a>
+  <a href="https://medium.com/@felurye" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="42" height="30" alt="medium logo"  />
+  </a>
+  <a href="https://ko-fi.com/felurye" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/ko-fi/default.svg" width="42" height="30" alt="ko-fi logo"  />
+  </a>
+</div>
 
+<h3 align="left">I work with</h3>
 
-<h3>Tech e Skills</h3>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="34" alt="java logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="34" alt="spring logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/clojure/clojure-original.svg" height="34" alt="clojure logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="34" alt="apachekafka logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="34" alt="amazonwebservices logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="34" alt="postgresql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="34" alt="mysql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="34" alt="mongodb logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="34" alt="arduino logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="34" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="34" alt="css logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="34" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="34" alt="typescript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="34" alt="jest logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="34" alt="nextjs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="34" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="34" alt="nodejs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="34" alt="nestjs logo"  />
+</div>
 
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/CSharp-68217A?style=for-the-badge&logo=csharp&logoColor=white"/> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/HTML-E34C26?&style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<!-- I used the https://profile-readme-generator.com/ to generate this profile's MD file. -->
