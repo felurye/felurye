@@ -16,6 +16,8 @@ I have a strong foundation in test automation and Java, and I value writing main
 💬 Always open to connect - feel free to reach out if I can help in any way
 </p>
 
+<br>
+
 <a href="https://www.linkedin.com/in/felurye/" target="_blank">linkedIn</a> • 
 <a href="https://medium.com/@felurye" target="_blank">medium</a> • 
 <a href="https://ko-fi.com/felurye" target="_blank">ko-fi</a>
