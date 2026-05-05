@@ -1,21 +1,19 @@
-[🇧🇷 Versão em Português](README.pt-br.md)
-
-<h2 align="left">Would you like to come in and have a cup of coffee? ☕</h2>
+<h2 align="left">Gostaria de entrar e tomar uma xícara de café? ☕</h2>
 
 <p align="left">
-Software Engineer passionate about sharing knowledge. With 7+ years of experience spanning software quality and web development, with a strong focus on microservices. I’m also an enthusiast of the Internet of Things (IoT).<br>
-I have a strong foundation in test automation and Java, and I value writing maintainable, high-quality software. I’m technology-agnostic and continuously learning, driven by curiosity and a desire to improve. ✨
+Engenheira de Software apaixonada por compartilhar conhecimento. Com 7+ anos de experiência abrangendo garantia de qualidade de software e desenvolvimento web, com forte foco em microsserviços. Sou também entusiasta de Internet das Coisas (IoT).<br>
+Tenho uma base sólida em automação de testes e Java, e valorizo a escrita de software de alta qualidade e fácil manutenção. Sou agnóstica em relação a tecnologia e estou continuamente aprendendo, movida por curiosidade e desejo de melhorar. ✨
 </p>
 
-<img align="right" width="230" src=".github/capa-character-3.gif" alt="Pixel art drawing of Daniele Araújo typing on a keyboard."/>
+<img align="right" width="230" src=".github/capa-character-3.gif" alt="Desenho em pixel art de Daniele Araújo digitando em um teclado."/>
 
-<h3 align="left">About me</h3>
+<h3 align="left">Sobre mim</h3>
 
 <p align="left">
-💼 Software Engineer at Nubank <br>
-📖 Graduated in Systems Analysis and Development - Federal Institute of Goiás <br>
-💻 Passionate about open source and supporting underrepresented communities in tech <br>
-💬 Always open to connect - feel free to reach out if I can help in any way
+💼 Engenheira de Software na Nubank <br>
+📖 Graduada em Análise e Desenvolvimento de Sistemas - Instituto Federal de Goiás <br>
+💻 Apaixonada por código aberto e apoio a comunidades sub-representadas na tecnologia <br>
+💬 Sempre aberta para conectar - sinta-se à vontade para entrar em contato se eu puder ajudar de alguma forma
 </p>
 
 <br>
@@ -24,7 +22,7 @@ I have a strong foundation in test automation and Java, and I value writing main
 <a href="https://medium.com/@felurye" target="_blank">medium</a> •
 <a href="https://ko-fi.com/felurye" target="_blank">ko-fi</a>
 
-<h3 align="left">I work with</h3>
+<h3 align="left">Trabalho com</h3>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="34" alt="java logo"  />
@@ -47,4 +45,4 @@ I have a strong foundation in test automation and Java, and I value writing main
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="34" alt="nestjs logo"  />
 </div>
 
-<!-- I used the https://profile-readme-generator.com/ to generate this profile's MD file. -->
+<!-- Usei https://profile-readme-generator.com/ para gerar o arquivo MD deste perfil. -->
