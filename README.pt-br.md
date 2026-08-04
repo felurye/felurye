@@ -10,7 +10,7 @@ Tenho uma base sólida em automação de testes e Java, e valorizo a escrita de 
 <h3 align="left">Sobre mim</h3>
 
 <p align="left">
-💼 Engenheira de Software na Nubank <br>
+💼 Engenheira de Software <br>
 📖 Graduada em Análise e Desenvolvimento de Sistemas - Instituto Federal de Goiás <br>
 💻 Apaixonada por código aberto e apoio a comunidades sub-representadas na tecnologia <br>
 💬 Sempre aberta para conectar - sinta-se à vontade para entrar em contato se eu puder ajudar de alguma forma
