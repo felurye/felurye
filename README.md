@@ -12,7 +12,7 @@ I have a strong foundation in test automation and Java, and I value writing main
 <h3 align="left">About me</h3>
 
 <p align="left">
-💼 Software Engineer at Nubank <br>
+💼 Software Engineer <br>
 📖 Graduated in Systems Analysis and Development - Federal Institute of Goiás <br>
 💻 Passionate about open source and supporting underrepresented communities in tech <br>
 💬 Always open to connect - feel free to reach out if I can help in any way
