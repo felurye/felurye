@@ -10,7 +10,7 @@ Tenho uma base sólida em automação de testes e Java, e valorizo a escrita de 
 <h3 align="left">Sobre mim</h3>
 
 <p align="left">
-💼 Engenheira de Software <br>
+💼 Engenheira de Software @ Caju Benefícios<br>
 📖 Graduada em Análise e Desenvolvimento de Sistemas - Instituto Federal de Goiás <br>
 💻 Apaixonada por código aberto e apoio a comunidades sub-representadas na tecnologia <br>
 💬 Sempre aberta para conectar - sinta-se à vontade para entrar em contato se eu puder ajudar de alguma forma
@@ -19,7 +19,7 @@ Tenho uma base sólida em automação de testes e Java, e valorizo a escrita de 
 <br>
 
 <a href="https://www.linkedin.com/in/felurye/" target="_blank">linkedIn</a> •
-<a href="https://medium.com/@felurye" target="_blank">medium</a> •
+<a href="https://dev.to/felurye" target="_blank">dev.to</a> •
 <a href="https://ko-fi.com/felurye" target="_blank">ko-fi</a>
 
 <h3 align="left">Trabalho com</h3>

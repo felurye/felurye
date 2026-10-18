@@ -12,7 +12,7 @@ I have a strong foundation in test automation and Java, and I value writing main
 <h3 align="left">About me</h3>
 
 <p align="left">
-💼 Software Engineer <br>
+💼 Software Engineer @ Caju Benefícios<br>
 📖 Graduated in Systems Analysis and Development - Federal Institute of Goiás <br>
 💻 Passionate about open source and supporting underrepresented communities in tech <br>
 💬 Always open to connect - feel free to reach out if I can help in any way
@@ -21,7 +21,7 @@ I have a strong foundation in test automation and Java, and I value writing main
 <br>
 
 <a href="https://www.linkedin.com/in/felurye/" target="_blank">linkedIn</a> •
-<a href="https://medium.com/@felurye" target="_blank">medium</a> •
+<a href="https://dev.to/felurye" target="_blank">dev.to</a> •
 <a href="https://ko-fi.com/felurye" target="_blank">ko-fi</a>
 
 <h3 align="left">I work with</h3>
